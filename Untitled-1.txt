@@ -1,0 +1,113 @@
+<div class="container-fluid">
+    <div class="row">
+      <div class="row bg-black text-white" style="height:60px ;">
+        <img src="mainlogo.jpg" style="height:50px; width:120px;">
+        </div>
+     <div class="col-3" style="height:auto; width:auto; background-color: black; margin-left: 0;">
+        <div class="sidebar">
+            <ul>
+             <li><a href="#"></i>Home</li>
+             <li><a href="#"></i>Shorts</a></li>
+             <li><a href="#"></i>Subscriptions</a></li>
+             <div class="cut"></div>
+             <li><a href="#"></i>Library</li>
+             <li><a href="#"></i>History</a></li>
+             <li><a href="#"></i>Your Videos</a></li>
+             <li><a href="#"></i>Recent Videos</a></li>
+             <div class="cut"></div> 
+            <div class="subs">Subscriptions</div>
+             <li><a href="#"></i>MKBHD</a></li>
+             <li><a href="#"></i>Tech Linux Tips</a></li>
+             <li><a href="#"></i>Car Auctions </a></li>
+             <li><a href="#"></i>Meek Mill</a></li>
+             <li><a href="#"></i>MrWhoseTheBoss</a></li>
+             <li><a href="#"></i>Recent Videos</a></li>
+             <li><a href="#"></i>ESPN</a></li>
+             <li><a href="#"></i>MakMulla</a></li>
+             <li><a href="#"></i>Liverpool Fc</a></li>
+            </ul>
+            </div>
+    
+    </div>
+      <div class="col-10">
+        <div class="card-group">
+            <div class="card bg-black text-white ">
+              <img src="mkbhd.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                
+                <h5 class="card-title">Iphone 11 pro Review</h5>
+                <p class="card-text">Review of the iphone 11 by MKBHD</p>
+                <p class="card-text"><small class="text-muted">11 years ago</small></p>
+              </div>
+            </div>
+            <div class="card bg-black text-white">
+              <img src="ssd.png" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">NVME SSD Review</h5>
+                <p class="card-text">Are SSD's faster than theri counterparts? lets find out!</p>
+                <p class="card-text"><small class="text-muted">3 months ago</small></p>
+              </div>
+            </div>
+            <div class="card bg-black text-white">
+              <img src="80series.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">History of the Landcruiser</h5>
+                <p class="card-text">We take dive in the Hisory of the kings of the road!</p>
+                <p class="card-text"><small class="text-muted">4 years ago</small></p>
+              </div>
+            </div>
+          </div><div class="card-group">
+            <div class="card bg-black text-white">
+              <img src="apollo.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">The APOLLO disaster!</h5>
+                <p class="card-text">Command Pilot Gus Grissom, Senior Pilot Ed White, and Pilot Roger B. Chaffee—and destroyed the command module (CM).</p>
+                <p class="card-text"><small class="text-muted">5 years ago</small></p>
+              </div>
+            </div>
+            <div class="card bg-black text-white">
+              <img src="liverpool.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Liverpool CHAMPIONS LEAGUE FAVOURITES?</h5>
+                <p class="card-text">The ESPN  crew puts liverpool as the best team to win</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+              </div>
+            </div>
+            <div class="card bg-black text-white">
+              <img src="megatron.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Megatron to miss out on Transformers 6?</h5>
+                <p class="card-text">Megatron is the founder and leader of the Decepticons in Michael Bay's</p>
+                <p class="card-text"><small class="text-muted">1 year ago</small></p>
+              </div>
+            </div>
+          </div><div class="card-group">
+            <div class="card bg-black text-white">
+              <img src="chiron.png" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Buggati vs Jet</h5>
+                <p class="card-text">Gotcha. Just so we're all clear, the Chiron packs 1,500PS versus the jet's 5,727PS. The Bugatti can hit a top speed of 261mph.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+              </div>
+            </div>
+            <div class="card bg-black text-white">
+              <img src="300 series.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Landcruiser 300 series review!</h5>
+                <p class="card-text">A brand new 3.3L twin-turbo V6 diesel engine delivering 227kW and 700Nm, this is the most powerful diesel LandCruiser yet.</p>
+                <p class="card-text"><small class="text-muted">7 months ago</small></p>
+              </div>
+            </div>
+            <div class="card bg-black text-white">
+              <img src="dragrace.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Nairobi Car SHow</h5>
+                <p class="card-text">The annual show at the KICC grounds</p>
+                <p class="card-text"><small class="text-muted">5 months ago</small></p>
+              </div>
+            </div>
+          </div>
+      </div>
+
+</div>
+</div>
